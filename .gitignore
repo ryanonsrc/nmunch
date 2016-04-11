@@ -1,4 +1,5 @@
 !.gitignore
 
 target/
-
+ensime/
+.ensime_cache/
